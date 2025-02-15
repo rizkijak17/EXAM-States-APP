@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">States App</string>
+    <string name="app_title">States APP</string>
+    <string name="app_short_description">Aplikasi yang berisi negara bagian di Amerika Serikat dan data terkait populasinya</string>
+
+    <string name="title_state_detail">Informasi Negara Bagian</string>
+
+    <string name="no_image_available">Gambar tidak tersedia</string>
+    <string name="population_label">Populasi:</string>
+    <string name="map_tooltip">Klik untuk melihat peta negara bagian</string>
+    <string name="flag">Bendera Negara Bagian</string> <!-- Tambahkan ini -->
+
+    <string name="sort">Sort</string>
+    <string name="sort_by_name_asc">Sort by Name (A-Z)</string>
+    <string name="sort_by_name_desc">Sort by Name (Z-A)</string>
+    <string name="sort_by_population_asc">Sort by Population (Low to High)</string>
+    <string name="sort_by_population_desc">Sort by Population (High to Low)</string>
+
+</resources>

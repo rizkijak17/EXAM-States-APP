@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Warna tema Material You -->
+    <color name="primary_color">#6750A4</color>
+    <color name="secondary_color">#EADDFF</color>
+
+    <!-- Warna untuk state list -->
+    <color name="state_item_background">#F3EDF7</color>
+    <color name="state_item_selected_background">#C8D4E5</color>
+
+    <!-- Warna untuk map -->
+    <color name="map_background">#FEF7FF</color>
+    <color name="map_marker_color">#C1E5FD</color>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Warna teks untuk info window -->
+    <color name="text_color_light">#000000</color> <!-- Hitam untuk light mode -->
+    <color name="text_color_dark">#000000</color> <!-- Hitam untuk dark mode -->
+
+</resources>
